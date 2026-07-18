@@ -1,0 +1,7 @@
+﻿Ime i prezime: Dusan Poposilov
+Datum: 18.07.2026 21:31
+GitHub nalog: https://github.com/arhistrategstudio
+
+Beleska: Ovo je moja prva izmena u forkovanom repozitorijumu.
+Naucio sam kako da forkujem repozitorijum, kloniram ga lokalno,
+dodam izmene u staging podrucje, napravim commit i posaljem izmene na GitHub.
